@@ -46,7 +46,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" text="John Gavin Rhodes" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="h9i-1f-z19">
-                                <rect key="frame" x="113" y="521" width="148" height="21"/>
+                                <rect key="frame" x="113" y="519" width="148" height="21"/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="h9i-1f-z19" secondAttribute="height" multiplier="148:21" id="gOV-PI-4xI"/>
                                 </constraints>

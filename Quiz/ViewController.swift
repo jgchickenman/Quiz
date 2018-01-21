@@ -3,7 +3,7 @@
 //  Quiz
 //
 //  Created by John Gavin Rhodes on 1/15/18.
-//  High Point University
+//  High Point University 
 //  Copyright © 2018 HPU. All rights reserved.
 //
 
