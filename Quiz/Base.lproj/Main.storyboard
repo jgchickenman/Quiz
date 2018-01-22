@@ -45,9 +45,10 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" text="John Gavin Rhodes" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="h9i-1f-z19">
-                                <rect key="frame" x="113" y="519" width="148" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="John Gavin Rhodes" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="h9i-1f-z19">
+                                <rect key="frame" x="113" y="578" width="148" height="21"/>
                                 <constraints>
+                                    <constraint firstAttribute="width" secondItem="h9i-1f-z19" secondAttribute="height" multiplier="148:21" id="5t3-uH-eRw"/>
                                     <constraint firstAttribute="width" secondItem="h9i-1f-z19" secondAttribute="height" multiplier="148:21" id="gOV-PI-4xI"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
@@ -57,6 +58,7 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
+                            <constraint firstItem="h9i-1f-z19" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="12O-fz-QoN"/>
                             <constraint firstItem="4PR-fu-32t" firstAttribute="centerX" secondItem="Orz-mu-3dD" secondAttribute="centerX" id="7fp-fF-Cjl"/>
                             <constraint firstItem="4PR-fu-32t" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="J6x-22-D7f"/>
                             <constraint firstItem="FMy-HN-WPU" firstAttribute="top" secondItem="Orz-mu-3dD" secondAttribute="bottom" constant="182" id="UaP-Ow-I9p"/>
